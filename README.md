@@ -3,7 +3,7 @@ Counter Strike : Global Offensive Source Code which Got Leaked on 22th April 202
 
 **Use at your own pleasure**
 
-**Note:** I neither do not own nor have leaked this resource, i am just giving easy access to it.
+**Note:** I neither own nor have leaked this resource, i am just Publishing It.
 <br>
 # Downloads
 ## Whole pack:
