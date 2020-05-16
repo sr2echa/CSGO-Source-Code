@@ -1,5 +1,5 @@
 # About the leak
-Counter Strike : Global Offensive Source Code which Got Leaked on 22th April 2020 Along with Team Fortress 2 and f-Zero's Source Code
+Counter Strike : Global Offensive Source Code which Got Leaked on 22th April 2020 Along with Team Fortress 2 and F-Zero's Source Code
 
 **Use at your own pleasure**
 
